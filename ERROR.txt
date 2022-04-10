@@ -1,0 +1,9 @@
+Request Id: 92c0201c-314b-44f5-ae2d-aa4e50216a00 
+Correlation Id: 74119988-55f4-4c1f-80d8-94721b576b46 
+Timestamp: 2021-01-19T10:01:53.101Z 
+App name: Microsoft Teams
+App id: 1fec8e78-bce4-4aaf-ab1b-5451cc387264
+IP address: 27.48.96.56
+Device identifier: e8cbb4e6-853b-4243-8953-c25a04ee170a
+Device platform: Windows 10
+Device state: Registered
